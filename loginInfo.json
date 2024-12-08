@@ -1,0 +1,38 @@
+[
+  {
+    "email": "ronaldo7@example.com",
+    "password": "password777",
+    "name": "Cristiano Ronaldo",
+    "profile": "https://people.com/thmb/E-9q66qcxQKd-0jnrTa2cAGsy5A=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(704x389:706x391):format(webp)/Cristiano-Ronaldo-02-123022-2ffaa0665b4e4d1d86aae39ef125ead1.jpg"
+  },
+  {
+    "email": "messi@example.com",
+    "password": "password10",
+    "name": "Lionel Messi",
+    "profile": "https://people.com/thmb/60G4SLE0vvlrmo6TqpeNR5SNHks=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x438:1001x440)/lionel-messi-most-liked-instagram-picute-122222-2e46f8ce2f8444948fce28f2c84c72f2.jpg"
+  },
+  {
+    "email": "bruno@example.com",
+    "password": "password8",
+    "name": "bruno fernandes",
+    "profile": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_yTsVBrrrMFLax5IogBCUoSLaIj7qiqzl9g&s"
+  },
+  {
+    "email": "dudgus@example.com",
+    "password": "password0220",
+    "name": "영현",
+    "profile": "https://lh5.googleusercontent.com/MSPlJu_dpG8iDtvA5vdNR0SBC3XL83ezVDGh4AqBVVFEaK_xUfOEJ2lLXYqI7OboYDZLbO4RjwzpoCMp1sHJM1dbogPQshpsMv9cO1yj2fxV_uqakAqz6D9C0AC7oXCOXg=w1280"
+  },
+  {
+    "email": "Rooney@example.com",
+    "password": "passwordWR",
+    "name": "Nobel",
+    "profile": "https://upload.wikimedia.org/wikipedia/commons/6/60/Zarya-MU_%286%29.jpg"
+  },
+  {
+    "email": "Ferguson@example.com",
+    "password": "password1",
+    "name": "Alex Ferguson",
+    "profile": "https://i.namu.wiki/i/evYK4vwTOTZjrlh-b3gHMnspaJh_Nw71l_rDjAUdqa2Q1aIGCe9mwtAM2czSbk6J2W6jGe_ES1Ea5YAPZzKxcw.webp"
+  }
+]
