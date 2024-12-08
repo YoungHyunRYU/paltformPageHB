@@ -1,1 +1,1 @@
-# paltformPageHB
+# platformPageHB
