@@ -34,5 +34,11 @@
     "password": "password1",
     "name": "Alex Ferguson",
     "profile": "https://i.namu.wiki/i/evYK4vwTOTZjrlh-b3gHMnspaJh_Nw71l_rDjAUdqa2Q1aIGCe9mwtAM2czSbk6J2W6jGe_ES1Ea5YAPZzKxcw.webp"
+  },
+  {
+    "email": "1",
+    "password": "1",
+    "name": "Cristiano Ronaldo",
+    "profile": "https://people.com/thmb/E-9q66qcxQKd-0jnrTa2cAGsy5A=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(704x389:706x391):format(webp)/Cristiano-Ronaldo-02-123022-2ffaa0665b4e4d1d86aae39ef125ead1.jpg"
   }
 ]
